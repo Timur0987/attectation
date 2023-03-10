@@ -1,0 +1,71 @@
+body {
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+.link{
+
+}
+.btn {
+    background: #76B900;
+    border-radius: 2px;
+    border: none;
+    font-size: 26px;
+    padding: 5px;
+    width: 190px;
+    height: 75px;
+    color: white;
+}
+.menu{
+    font-size: 64px;
+    display: flex;
+    width: 35%;
+    justify-content: space-between;
+    color: white ;
+
+}
+.rtx3090ti{
+    width: 165px;
+}
+.rtx4090{
+    width: 165px;
+    text-align: center;
+}
+.content{
+    width: 100%;
+    height: 600px;
+    background-color: aqua;
+    
+}
+.background{
+    width: 100%;
+}
+.name{
+    font-size: 30px;
+    position: absolute;
+    font-size: 48px;
+    left: 1%;
+    top: 30%;
+}
+.information{
+    position: absolute;
+    left: 4%;
+    top: 41%;
+    font-size: 36px;
+    text-align: center;
+}
+.test{
+    margin-top: 16%;
+}
+.test2{
+    margin-top: 34%;
+}
